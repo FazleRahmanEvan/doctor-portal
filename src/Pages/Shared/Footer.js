@@ -7,7 +7,7 @@ const Footer = () => {
             background: `url(${footer})`,
             backgroundSize: 'cover'
         }}
-            className=" p-11 mb-10 ">
+            className=" p-11 mt-12 ">
             <div className='footer mb-10'>
             <div>
                 <span className="footer-title">Services</span>
@@ -30,8 +30,8 @@ const Footer = () => {
                 <a className="link link-hover">Cookie policy</a>
             </div>
             </div>
-            <div className='mt-12 mb-10'>
-            <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
+            <div className='mt-12 mb-10 text-center'>
+            <p>Copyright © 2022 - All right reserved </p>
             </div>
                
            
